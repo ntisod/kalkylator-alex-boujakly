@@ -1,0 +1,15 @@
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\obj\Debug\räknare.csprojAssemblyReference.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\obj\Debug\MainWindow.g.cs
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\obj\Debug\App.g.cs
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\obj\Debug\räknare_MarkupCompile.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\obj\Debug\räknare_MarkupCompile.lref
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\bin\Debug\räknare.exe.config
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\bin\Debug\räknare.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\bin\Debug\räknare.pdb
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\obj\Debug\MainWindow.baml
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\obj\Debug\räknare.g.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\obj\Debug\räknare.Properties.Resources.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\obj\Debug\räknare.csproj.GenerateResource.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\obj\Debug\räknare.csproj.CoreCompileInputs.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\obj\Debug\räknare.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\räknare\räknare\obj\Debug\räknare.pdb
